@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\STT_Lab_10\bin\Debug\net8.0\STT_Lab_10.exe
+C:\Users\HP\source\repos\STT_Lab_10\bin\Debug\net8.0\STT_Lab_10.deps.json
+C:\Users\HP\source\repos\STT_Lab_10\bin\Debug\net8.0\STT_Lab_10.runtimeconfig.json
+C:\Users\HP\source\repos\STT_Lab_10\bin\Debug\net8.0\STT_Lab_10.dll
+C:\Users\HP\source\repos\STT_Lab_10\bin\Debug\net8.0\STT_Lab_10.pdb
+C:\Users\HP\source\repos\STT_Lab_10\obj\Debug\net8.0\STT_Lab_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\STT_Lab_10\obj\Debug\net8.0\STT_Lab_10.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\STT_Lab_10\obj\Debug\net8.0\STT_Lab_10.AssemblyInfo.cs
+C:\Users\HP\source\repos\STT_Lab_10\obj\Debug\net8.0\STT_Lab_10.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\STT_Lab_10\obj\Debug\net8.0\STT_Lab_10.dll
+C:\Users\HP\source\repos\STT_Lab_10\obj\Debug\net8.0\refint\STT_Lab_10.dll
+C:\Users\HP\source\repos\STT_Lab_10\obj\Debug\net8.0\STT_Lab_10.pdb
+C:\Users\HP\source\repos\STT_Lab_10\obj\Debug\net8.0\STT_Lab_10.genruntimeconfig.cache
+C:\Users\HP\source\repos\STT_Lab_10\obj\Debug\net8.0\ref\STT_Lab_10.dll
